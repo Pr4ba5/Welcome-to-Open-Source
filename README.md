@@ -96,6 +96,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Sahil Ansari</b></sub>
                 </a>
             </td>
+           <td align="center">
+                <a href="https://github.com/Pr4ba5">
+                    <img src="https://avatars.githubusercontent.com/u/163854828?v=4" width="100px;" alt="Prabas"/>
+                    <br />
+                    <sub><b>Prabhash Chettri</b></sub>
+                </a>
+            </td>
         </tr> 
         <tr>
             <td align="center">
